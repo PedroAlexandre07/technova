@@ -1,0 +1,6 @@
+{
+  "name": "TechNova Store",
+  "description": "E-commerce premium de eletrônicos e tecnologia com painel administrativo e checkout simulado completo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
